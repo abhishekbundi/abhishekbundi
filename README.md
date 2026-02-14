@@ -1,24 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhishek Bundi</h1>
-<h3 align="center">Full Stack Engineer | WordPress Plugin Architect | Next.js & AI Integration Specialist</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications;WordPress+Plugin+Expert;Next.js+%7C+Headless+Architecture;AI+Integration+(OpenAI+%7C+Gemini);Team+Lead+%7C+60%2B+Production+Websites" />
-</p>
-
----
-
-## 🚀 About Me
-
-I’ve spent the last 5 years building web applications that don’t just look good — but actually scale.
-
-Currently working as a **Team Lead at Prerna Trimurty Infotech (Jaipur)**, managing a team of 7 developers and delivering 50–70 production websites annually.
-
-I specialize in combining **WordPress, Next.js, and AI integrations** to build scalable, performance-optimized systems.
-
----
-
-## 🛠 Tech Stack
-
+# 👋 Hi, I'm Abhishek Saini
 <p align="center">
   <img src="https://img.shields.io/badge/WordPress-Plugin%20Developer-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-Advanced-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -28,38 +8,86 @@ I specialize in combining **WordPress, Next.js, and AI integrations** to build s
   <img src="https://img.shields.io/badge/Gemini-API%20Integration-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/DigitalOcean-Deployment-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
 </p>
-
----
-
-## 💼 What I Do
-
-- 👨‍💻 Lead & mentor development teams  
-- 🔌 Build and publish WordPress plugins (5+ official directory)  
-- ⚡ Migrate legacy systems to Next.js for performance & SEO  
-- 🤖 Develop AI-powered chatbot integrations  
-- 🚀 Handle production deployments & server configuration  
-- 🛒 Manage Shopify migrations & integrations  
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekbundi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekbundi&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;WordPress+Plugin+Architect;Next.js+%7C+AI+Integration+Specialist;Team+Lead+%7C+Scalable+Systems" />
 </p>
 
----
-
-## 🌍 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhishekbundi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+🚀 Full Stack Engineer | WordPress Plugin Architect | Next.js & AI Integration  
+📍 Team Lead at Prerna Trimurty Infotech, Jaipur  
 
 ---
 
-⭐ Building scalable systems.  
-🤝 Open to Remote & India-based product opportunities.
+## 💡 About Me
+
+For the past 5 years, I’ve focused on building web applications that don’t just look good — but actually scale.
+
+Currently, I’m working as a Team Lead at **Prerna Trimurty Infotech (PTI), Jaipur**, where I lead a team of 7 developers in a fast-paced service environment. Together, we deliver 50–70 web projects annually, handling everything from development to deployment.
+
+This experience has strengthened my expertise in system architecture, performance optimization, team management, and real-world production deployments.
+
+---
+
+## 🛠 What I Do
+
+- 👨‍💻 Lead and mentor a team of developers
+- ⚡ Migrate legacy PHP & WordPress systems to Next.js for better performance & SEO
+- 🔌 Build and publish WordPress plugins (5+ plugins in official WordPress directory)
+- 🤖 Integrate AI solutions using OpenAI & Gemini APIs
+- 🚀 Manage server deployments (DigitalOcean), SSL configuration, and production environments
+- 🛒 Handle Shopify migrations and customizations
+
+---
+
+## 🔬 Technical Evolution
+
+I started with traditional PHP and WordPress development, and gradually transitioned into:
+
+- Modern Next.js applications
+- Headless architecture
+- API-first development
+- AI-powered web applications
+
+Recently, I’ve been building AI-driven chatbot solutions using OpenAI & Gemini APIs to make web platforms smarter and more interactive.
+
+---
+
+## 🧠 Core Expertise
+
+- WordPress Plugin Development & Customization
+- Next.js (SSR / SSG / Performance Optimization)
+- REST API Architecture
+- AI Integration (OpenAI / Gemini)
+- Production Deployment & DevOps Basics
+- Team Leadership & Project Execution
+
+---
+
+## 🚀 Featured Work
+
+- 🔹 AI-Powered Chatbot Integration (OpenAI + Gemini)
+- 🔹 5+ Published WordPress Plugins
+- 🔹 60+ Managed WordPress Production Websites
+- 🔹 Next.js Migration & Performance Optimization Projects
+
+---
+
+## 💻 Tech Stack
+
+Frontend: Next.js, React, JavaScript  
+Backend: Node.js, Express, PHP  
+CMS: WordPress  
+AI: OpenAI API, Gemini API  
+Database: MySQL  
+Deployment: DigitalOcean, VPS, SSL Configuration  
+
+---
+
+## 🤝 Let’s Connect
+
+I believe in clean code and even cleaner communication.
+
+I’m open to remote and India-based opportunities where I can contribute to scalable product systems, AI integration, and engineering leadership.
+
+📍 LinkedIn: https://www.linkedin.com/in/abhishek-saini-bundi 
+📍 GitHub: https://github.com/abhishekbundi  
+📧 Email: sainibundi123@gmail.com
