@@ -45,9 +45,8 @@ Here are some examples of work I’ve done — click to see code and demos:
 
 ### 🔗 Links
 
-📍 LinkedIn: https://www.linkedin.com/in/abhishekbundi/  
+📍 LinkedIn: https://www.linkedin.com/in/abhishekbundi
 📍 GitHub: https://github.com/abhishekbundi  
-📍 Portfolio / Demo: *(Add live links here if available)*
 
 ---
 
