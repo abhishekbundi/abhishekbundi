@@ -54,4 +54,4 @@ Here are some examples of work I’ve done — click to see code and demos:
 
 I’m actively open to remote and India-based opportunities where I can contribute to product engineering, AI integration, and scalable web solutions.
 
-📧 Email: *(Add your email here)*
+📧 Email: *sainibundi23@gmail.com*
